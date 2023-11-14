@@ -3,7 +3,7 @@
 
 int main()
 {
-    //در دستورات ورودی و خروحی، میتوان یکجا همه اطلاعات را وارد کرد یا اینکه میتوان در هر خط جداگانه دستوری را انجام داد.
+    //در دستورات ورودی و خروجی، میتوان یکجا همه اطلاعات را وارد کرد یا اینکه میتوان در هر خط جداگانه دستوری را انجام داد.
     //Declaring variables
     int king, queen, rook, bishop, knight, pawn;
     int max_king=1, max_queen=1, max_rook=2, max_bishop=2, max_knight=2, max_pawn=8;
